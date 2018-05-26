@@ -89,7 +89,7 @@ main() {
   fi
 
   # Install ALL THE THINGS!
-  update_hostname
+  #update_hostname
   install_requirements
   config_network_manager
   install_docker
