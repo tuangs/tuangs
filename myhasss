@@ -100,7 +100,7 @@ main() {
   # Install ALL THE THINGS!
   install_requirements
   config_network_manager
-  install_docker
+  #install_docker
   install_hassio
 
   # Friendly closing message
